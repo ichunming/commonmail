@@ -1,0 +1,6 @@
+#文件夹
+ignoretest
+target
+#文件
+*.test
+*ds.properties
